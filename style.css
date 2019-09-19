@@ -175,7 +175,7 @@ ul{
   box-shadow: inset 0 25px 20px black, inset 0 -25px 20px black;
 }
 .End_Parralax{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),  url('images/End.gif');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),  url('images/End.png');
   background-color: #cccccc;
   height: 900px;
   font-weight: normal;
