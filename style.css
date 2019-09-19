@@ -120,6 +120,9 @@ a:hover {
   color: white;
   font-weight: normal;
   background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
 }
 footer{
   background-image: url("images/Bedrock_Block.jpg");
