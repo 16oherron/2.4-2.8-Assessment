@@ -39,16 +39,6 @@ h1{
   border-style: solid;
   margin: 50px;
 }
-.button {
-  background-image: url('images/Stone_Brick.jpg');
-  background-size: contain;
-  font-size: 20px;
-  width: 100%;
-  height: 42px;
-  align: center;
-  padding-top: 10px;
-  text-align: center;
-}
 .button_2 {
   background-image: url('images/Grass_Block.jpg');
   background-size: contain;
@@ -71,14 +61,23 @@ a:link, a:visited {
     border-color: transparent;
     border-style: solid;
     border-width: 1px;
-
-
 }
 a:hover {
     border-color: white;
     border-style: solid;
     border-width: 1px;
     transition: 0.005s;
+}
+.visiting {
+  background-color: rgb(255, 255, 255, 25%);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  transition: 0.005s;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
 }
 .Overworld_Hero{
   background-image: url('images/Overworld_Parralax.png');
